@@ -1,8 +1,8 @@
-#🌦 Weather App
+#  🌦 Weather App
 
 A simple and elegant weather application built with JavaScript, HTML, and CSS. It fetches real-time weather data using the OpenWeatherMap API and displays it in a modern, responsive UI.
 
-#✨ Features
+#  ✨ Features
 
 🔍 Search weather by city name
 
@@ -16,7 +16,7 @@ A simple and elegant weather application built with JavaScript, HTML, and CSS. I
 
 🎨 Modern glassmorphism-inspired UI with smooth animations
 
-#🎨 UI Preview
+#  🎨 UI Preview
 
 Input field to enter city name
 
@@ -26,7 +26,7 @@ Weather card with city name, temperature, condition, humidity, and icon
 
 Error message display for invalid inputs
 
-#🚀 Future Enhancements
+#  🚀 Future Enhancements
 
 🌍 Add support for geolocation-based weather
 
