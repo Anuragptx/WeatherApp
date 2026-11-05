@@ -4,34 +4,34 @@ A simple and elegant weather application built with JavaScript, HTML, and CSS. I
 
 #   Features
 
- Search weather by city name
+1. Search weather by city name.
 
- Displays temperature in Celsius
+2. Displays temperature in Celsius.
 
- Shows weather condition and icon
+3. Shows weather condition and icon.
 
- Displays humidity percentage
+4. Displays humidity percentage.
 
-⚠ Error handling for invalid city names or API issues
+5. Error handling for invalid city names or API issues.
 
- Modern glassmorphism-inspired UI with smooth animations
+6. Modern glassmorphism-inspired UI with smooth animations.
 
 #   UI Preview
 
-Input field to enter city name
+1. Input field to enter city name.
 
-Search button with hover effects
+2. Search button with hover effects.
 
-Weather card with city name, temperature, condition, humidity, and icon
+3. Weather card with city name, temperature, condition, humidity, and icon.
 
-Error message display for invalid inputs
+4. Error message display for invalid inputs.
 
 #   Future Enhancements
 
- Add support for geolocation-based weather
+1. Add support for geolocation-based weather.
 
- Show 5-day forecast
+2. Show 5-day forecast.
 
- Dark/Light theme toggle
+3. Dark/Light theme toggle.
 
- Improve mobile responsiveness
+4. Improve mobile responsiveness.
